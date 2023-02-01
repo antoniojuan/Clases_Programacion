@@ -1,0 +1,10 @@
+
+                    MENU 
+                ************
+
+1.- Añadir "COCHE".
+2.- Generar Listado.
+3.- Buscar coche y mostrar por pantalla.
+4.- Generar Fichero.
+5.- Salir
+
